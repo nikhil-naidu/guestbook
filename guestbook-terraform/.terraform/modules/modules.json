@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"istio","Source":"./istio","Dir":"istio"},{"Key":"deployment","Source":"./deployment","Dir":"deployment"},{"Key":"gke","Source":"./gke","Dir":"gke"}]}
