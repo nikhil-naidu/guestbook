@@ -1,7 +1,7 @@
 ### This repo is not actively monitored, please don't open any issues
 
 
-The goal is to deploy Guestbook application on a GKE cluster with Istio enabled. This repo has the IAC code to spin up a cluster, install istio and deploy Guestbook application.
+The goal is to deploy Guestbook application on a GKE cluster with Istio enabled. This repo has the terraform code (IAC)  to spin up a cluster, install istio and deploy Guestbook application.
 
 guestbook.sh is  shell script which has all the necessary steps included to everything for you. 
 
